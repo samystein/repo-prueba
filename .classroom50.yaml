@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "herramientas-26"
+assignment: "introduccion-a-git"
+owner:
+  username: "samystein"
+  id: 135899458
+  accepted_at: "2026-09-04T19:49:34Z"
+source:
+  owner: "TDHclassroom"
+  owner_id: 219900396
+  repo: "git-basic"
+  branch: "main"
