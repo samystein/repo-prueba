@@ -41,7 +41,7 @@ Aprender a clonar repositorios de GitHub y mantener tu repositorio local actuali
    git add sync-test.txt
    git commit -m "Añadir archivo de prueba de sincronización"
    git push
-   ```
+   ``
 
 7. Verifica en GitHub que el archivo se subió correctamente.
 
