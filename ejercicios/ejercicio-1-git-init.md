@@ -1,4 +1,4 @@
-# Ejercicio 1: Inicializar Git
+coc# Ejercicio 1: Inicializar Git
 
 ## Objetivo
 Aprender a inicializar un repositorio Git y configurar la información básica del usuario.
